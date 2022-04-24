@@ -16,6 +16,6 @@
 ## About me 👩🏻
 - 🔭 Actualmente estoy trabajando en proyectos personales de frontend
 - 🌱 Al finalizar <a href="https://github.com/ezziell/Project-Planet-Shop">Project Planet Shop<a> voy a comenzar a apreder backend con node.js
-- 👯 Me gustaría trabajar en un proyecto grupal utilizando react.js
+- 📚 Me encuentro en 4to año de secundaria y haciendo la escuela de JavaScript en Platzi 
 
 
