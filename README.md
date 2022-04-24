@@ -1,4 +1,4 @@
-## Hi there, I'm Eugenia 👋🖥
+## Hi there👋🖥
 
 ![bannerforgit](https://user-images.githubusercontent.com/96441937/164991566-30a776a8-4214-46f5-82cc-b25f49285ddb.jpg)
 
